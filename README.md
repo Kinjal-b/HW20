@@ -14,3 +14,14 @@
 
 ### Answer:
 
+### Q4. Describe the problem and the nature of vanishing and exploding gradients
+
+### Answer:
+
+### Q5. What is LSTM and the main idea behind it?
+
+### Answer:
+
+### Q6. What is GRU?
+
+### Answer:
